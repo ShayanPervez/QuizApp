@@ -27,7 +27,7 @@ saveHighScore = e=>{
     
     localStorage.setItem("highScore",JSON.stringify(highScore));
    
-    window.location.assign(" ")
+    window.location.assign("QuizApp/index.html")
 
 
 }
